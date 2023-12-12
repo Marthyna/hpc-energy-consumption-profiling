@@ -6,6 +6,4 @@ This study aims to investigate and profile the energy consumption patterns in Hi
 
 ## Folder Structure
 
-- **bibliography:** Relevant articles and papers that serve as the foundation for the research.
-
 - **notes:** In this folder, you will find Jupyter notebooks, one containing a comprehensive logbook documenting the research progress and the other containing Python code experiments conducted on the data.
